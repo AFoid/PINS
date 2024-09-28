@@ -1,14 +1,14 @@
 Here is a formatted GitHub README description for your password utility tool, including installation instructions for Termux on Linux and a structured layout:
 
-# Password Utility Tool
+# PINS
 
-![Password Utility](https://img.shields.io/badge/Version-1.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.x-brightgreen.svg)
+![PINS](https://img.shields.io/badge/Version-1.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.x-brightgreen.svg)
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📜 Описание
 
-Password Utility Tool - это мощное приложение для генерации, кодирования и анализа паролей. Оно позволяет пользователям легко создавать безопасные пароли, проверять их силу, а также кодировать их различными методами.
+PINS - это мощное приложение для генерации, кодирования и анализа паролей. Оно позволяет пользователям легко создавать безопасные пароли, проверять их силу, а также кодировать их различными методами.
 
 ## ⚙️ Возможности
 
@@ -24,7 +24,7 @@ Password Utility Tool - это мощное приложение для гене
 
 ## 📦 Установка
 
-Следуйте инструкциям для установки и использования Password Utility Tool на вашем устройстве с Termux на Linux:
+Следуйте инструкциям для установки и использования PINS на вашем устройстве с Termux на Linux:
 
 1. 📲 **Установите Termux**: Загрузите Termux из [Google Play Store](https://play.google.com/store/apps/details?id=com.termux) или [F-Droid](https://f-droid.org/packages/com.termux/).
 
@@ -52,7 +52,7 @@ Password Utility Tool - это мощное приложение для гене
 
     ```bash
 
-    cd password-utility-tool
+    cd PINS
 
     ```
 
@@ -68,7 +68,7 @@ Password Utility Tool - это мощное приложение для гене
 
     ```bash
 
-    python main.py
+    python PINS.py
 
     ```
 
