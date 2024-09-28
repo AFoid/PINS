@@ -1,4 +1,3 @@
-Here is a formatted GitHub README description for your password utility tool, including installation instructions for Termux on Linux and a structured layout:
 
 # PINS
 
@@ -44,7 +43,7 @@ PINS - это мощное приложение для генерации, ко�
 
     ```bash
 
-    git clone https://github.com/ваш_пользователь/password-utility-tool.git
+    git clone https://github.com/AFoid/PINS
 
     ```
 
@@ -82,17 +81,8 @@ PINS - это мощное приложение для генерации, ко�
 
 ## 📫 Связь
 
-Если у вас есть вопросы или предложения, не стесняйтесь обращаться ко мне через [GitHub Issues](https://github.com/ваш_пользователь/password-utility-tool/issues).
+Если у вас есть вопросы или предложения, не стесняйтесь обращаться ко мне через [GitHub Issues](https://github.com/AFoid).
 
 ## 👥 Вклад
 
 Пожелания по улучшению, исправлению ошибок и предложения по функционалу всегда приветствуются! Создайте `issue` или `pull request`.
-
-Notes:
-
-Update the GitHub repository URL and username placeholders (https://github.com/ваш_пользователь/password-utility-tool.git) with the actual repository details.
-
-Add a suitable image for the application banner or a logo if desired.
-
-Feel free to modify sections based on additional features or changes in structure.
-
